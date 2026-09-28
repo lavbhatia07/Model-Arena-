@@ -1,0 +1,21 @@
+age,income,credit_score,education,home_owner,loan_approved
+25,45000,680,Bachelors,No,Approved
+32,72000,740,Masters,Yes,Approved
+47,38000,590,High School,No,Rejected
+51,110000,810,Doctorate,Yes,Approved
+22,29000,610,Bachelors,No,Rejected
+38,64000,700,Bachelors,Yes,Approved
+29,52000,660,Masters,No,Approved
+61,85000,750,Masters,Yes,Approved
+43,31000,580,High School,No,Rejected
+55,95000,790,Doctorate,Yes,Approved
+28,41000,640,Bachelors,No,Rejected
+34,78000,720,Masters,Yes,Approved
+49,36000,570,High School,No,Rejected
+26,48000,670,Bachelors,No,Approved
+39,89000,760,Masters,Yes,Approved
+58,105000,800,Doctorate,Yes,Approved
+23,27000,600,High School,No,Rejected
+44,61000,690,Bachelors,Yes,Approved
+31,54000,670,Bachelors,No,Approved
+50,40000,610,High School,No,Rejected
