@@ -150,7 +150,3 @@ Model-Arena/
 ```
 
 ---
-
-## 🤝 Contributing & License
-
-Distributed under the **MIT License**. Created by [lavbhatia07](https://github.com/lavbhatia07). Contributions, feature requests, and bug reports are welcome!
